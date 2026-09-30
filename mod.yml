@@ -1,0 +1,203 @@
+title: 'Soul Eater over Metal Chocobo'
+originalAuthor: 'Zyga'
+description: |-
+  Replaces the following Keyblades:
+  
+  Soul Eater -> Metal Chocobo [match length]
+game: kh1
+
+assets:
+  # Soul Eater custom remastered model -> Metal Chocobo
+  - method: copy
+    name: remastered/xw_ex_5110.wpn/-a8c0.cvbl
+    source:
+      - name: files/remastered_sources/alt_soul_eater/00_-a8c0.cvbl
+
+  # Soul Eater custom remastered model -> Metal Chocobo
+  - method: copy
+    name: remastered/xw_ex_5110.wpn/-a9c0.dds
+    source:
+      - name: files/remastered_sources/alt_soul_eater/01_-a9c0.dds
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014211.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011024.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014212.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011025.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014213.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011026.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014214.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011027.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014215.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011028.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014216.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011029.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014217.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011030.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014218.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011031.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014219.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011032.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014220.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011033.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014221.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011034.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014222.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011035.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014223.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011036.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014224.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011037.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014225.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011038.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014226.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011039.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014227.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011040.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014228.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011041.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014229.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011042.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014230.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011043.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014231.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011044.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014232.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011045.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014233.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011046.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014234.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011047.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014235.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011048.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014236.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011049.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014237.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011050.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014238.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011051.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014239.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011052.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014240.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011053.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014241.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011054.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014242.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011055.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014243.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011056.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014244.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011057.win32.scd
+
+  - method: copy
+    name: remastered/xw_ex_5110.se/se014245.win32.scd
+    source:
+      - name: files/sounds/alt_soul_eater/se011058.win32.scd
+
+  # Combined gameplay-data edits
+  - method: copy
+    name: btltbl.bin
+    package: kh1_first
+    source:
+      - name: files/btltbl.bin
+

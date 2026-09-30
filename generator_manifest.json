@@ -1,0 +1,22 @@
+{
+  "generatorVersion": "1.1.8",
+  "modName": "Soul Eater over Metal Chocobo",
+  "author": "Zyga",
+  "generatedAt": "2026-09-29T13:16:30-06:00",
+  "replacements": [
+    {
+      "TargetId": "metal_chocobo",
+      "SourceId": "alt_soul_eater",
+      "MatchLength": true,
+      "CustomStats": false,
+      "Stats": {
+        "Strength": 9,
+        "MP": -1,
+        "CritRateRaw": 2,
+        "CritBonus": 0,
+        "Recoil": 90,
+        "Reach": -5.1
+      }
+    }
+  ]
+}
